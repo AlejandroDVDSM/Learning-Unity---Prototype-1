@@ -4,7 +4,7 @@ This minigame consist in a car moving side-to-side on a floating road, trying to
 
 ## Controls
 
-W - Move forward
+W - Move forward \n
 A, D - Move to left and right, respective
 S - Move backward
 
