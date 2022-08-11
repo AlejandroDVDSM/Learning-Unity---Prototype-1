@@ -4,8 +4,10 @@ This minigame consist in a car moving side-to-side on a floating road, trying to
 
 ## Controls
 
-W - Move forward \n
+W - Move forward
+
 A, D - Move to left and right, respective
+
 S - Move backward
 
 Hold C to change from a third person camera to a first person camera
